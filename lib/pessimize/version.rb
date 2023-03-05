@@ -1,3 +1,3 @@
 module Pessimize
-  VERSION = "0.4.0-p2"
+  VERSION = "0.4.0-p3"
 end
